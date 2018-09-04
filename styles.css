@@ -1,18 +1,18 @@
 body  {
-      background-color:grey;
+      background-color: grey;
 }
 h1    {
-      color:blue;
+      color: blue;
       font-family: verdana;
       font-size: 300%;
 }
 h2    {
-      color:blue;
+      color: blue;
       font-family: verdana;
       font-size: 200%;
 }
  p    {
-       color:lightblue;
+       color: lightblue;
        font-family: courier;
        font-size: 160%;
 }      
@@ -20,25 +20,25 @@ h2    {
 
 
 a:link {
-    color: green; 
+    color: blue; 
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited {
-    color: pink;
+    color: navy;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:hover {
-    color: red;
+    color: aqua;
     background-color: transparent;
     text-decoration: underline;
 }
 
 a:active {
-    color: yellow;
+    color: teal;
     background-color: transparent;
     text-decoration: underline;
 }
